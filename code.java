@@ -2,7 +2,7 @@
 //This is a Console Loan Amortization Schedule for java.
 //includes use of switches ifs nested if and loops
 import java.io.*; 
-public class UsefulProgramme {
+public class Amortization {
 
 		 public static void main(String[] args)throws IOException { 
 		  BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
